@@ -25,7 +25,7 @@ Execute the program
 </center>
 <br>
 <table align="center" width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="cyan">
-<caption><b>SLOT TIME TABLE - Aishwarya.S(212222100003)</b></caption>
+<caption><b>SLOT TIME TABLE - JEEVITHA.S(22009398)</b></caption>
 <tr align="center">
 <th bgcolor="yellow">Day/Time</th>
 <th bgcolor="yellow">Monday</th>
@@ -119,8 +119,11 @@ Execute the program
 # OUPUT
 Server Output:
 
-![image](https://user-images.githubusercontent.com/123623197/235317587-72e7dfeb-12a7-480a-95e4-07fffd56476d.png)
+![image](https://github.com/Jeevithha/-slot-timetable/assets/123623197/a9d034fc-dd30-44ba-bed6-40fc7aed033c)
 
 Client Output:
 
-![image](https://user-images.githubusercontent.com/123623197/235317618-d8fc23f9-289d-40bf-9b19-d75ffa9a2a0e.png)
+![image](https://github.com/Jeevithha/-slot-timetable/assets/123623197/67cc55d0-a7de-4760-92ac-643d60f6b85f)
+
+# RESULT:
+ Thus the program executed successfully.
