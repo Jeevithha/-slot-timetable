@@ -21,7 +21,7 @@ Execute the program
 </head>
 <body>
 <center>
-<img src="logo.png" height="120" width="1150">
+<img src="/static/logo.png" height="100" width="540">
 </center>
 <br>
 <table align="center" width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="cyan">
@@ -36,19 +36,17 @@ Execute the program
 </tr>
 <tr align="center">
 <th bgcolor="yellow">8-10</th>
-<td>FREE SLOT</td>
-<td>CPROGRAM</td>
-<td>WEB</td>
-<td>WEB</td>
-<td>WEB</td>
+<td colspan="3">FREE SLOT</td>
+<td>DIPT</td>
+<td>CHE</td>
 </tr>
 <tr align="center">
 <th bgcolor="yellow">10-12</th>
-<td>FREE SLOT</td>
-<td>FREE SLOT</td>
-<td>EDM</td>
-<td>FREE SLOT</td>
-<td>FREE SLOT</td>
+<td>GER</td>
+<td> FREE SLOT </td>
+<td>FWAD</td>
+<td>FWAD</td>
+<td>DIPT</td>
 </tr>
 <tr>
 <th bgcolor="yellow">12-1</th>
@@ -56,20 +54,19 @@ Execute the program
 </tr>
 <tr align="center">
 <th bgcolor="yellow">1-3</th>
-<td>CREATIVE SKILL</td>
-<td>PHY</td>
-<td>DE</td>
-<td>DE</td>
-<td>FREE SLOT</td>
+<td colspan="2"> FREE SLOT </td>
+<td>MAT</td>
+<td>MAT</td>
+<td>CN</td>
 </tr>
 <tr align="center">
 <th bgcolor="yellow">3-5</th>
-<td>SNM</td>
-<td>EDM</td>
-<td>FREE SLOT</td>
-<td>FREE SLOT</td>
-<td>SNM</td>
+<td colspan="2"> FREE SLOT </td>
+<td>GER</td>
+<td>CHE</td>
+<td>FWAD</td>
 </tr>
+</br>
 </table>
 <br>
 <table align="center" cellspacing="2" cellpadding="4" border="2">
@@ -81,42 +78,37 @@ Execute the program
 <tr>
 <td align="center">1.</td>
 <td align="center">19AI414</td>
-<td>Fundamentals of Web Application Development (WEB)</td>
+<td>Fundamentals of Web Application Development (FWAD)</td>
 </tr>
 <tr>
 <td align="center">2.</td>
-<td align="center">19AI302</td>
-<td>Engineering Desing And Modeling(EDM)</td>
+<td align="center">19EN612</td>
+<td>German Basic (GER)</td>
 </tr>
 <tr>
 <td align="center">3.</td>
-<td align="center">19PH214</td>
-<td>Physics for Quantum Computing(PHY)</td>
+<td align="center">19AI406</td>
+<td>Digital Image Processing Techniques (DIPT)</td>
 </tr>
 <tr>
 <td align="center">4.</td>
 <td align="center">19CY205</td>
-<td>C Programming(CPROGRAM))</td>
+<td>Principles of Chemistry in Engineering (CHE)</td>
 </tr>
 <tr>
 <td align="center">5.</td>
-<td align="center"> 19MA211</td>
-<td>Statistics and Numerical Methods(SNM)</td>
+<td align="center">19MA201</td>
+<td>Calculus and Matrix Algebra (MAT)</td>
 </tr>
 <tr>
 <td align="center">6.</td>
-<td align="center"> 19EE404</td>
-<td>Digital Electronics(DE)</td>
+<td align="center">19CS406</td>
+<td>Computer Networks (CN)</td>
 </tr>
-<tr>
-<td align="center">7.</td>
-<td align="center">19EY702</td>
-<td>Creative Skills for Communication(CSC)</td>
-</tr>
+</br>
 </table>
 </body>
 </html>
-
 # OUPUT
 Server Output:
 
