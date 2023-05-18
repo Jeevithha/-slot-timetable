@@ -13,7 +13,8 @@ Add your timetable
 ### STEP 4
 Execute the program
 
-# CODE
+# CODE:
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -109,6 +110,7 @@ Execute the program
 </table>
 </body>
 </html>
+```
 # OUPUT
 Server Output:
 
